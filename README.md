@@ -24,14 +24,11 @@ What data structures will I be using?
 - Entry Class, which will be containing variables such as:
   - Title
   - Date
-  - Content
   - Location of file
 - Lists of Entries might be used as well
 How to set up?
 - Write a function that will find the time of the os ->
-  get input and use file in to save -> use file out to see the output -> 
-  create entries class that will contain the variables -> Build a gui around this structure
-  -> work on being able to edit the diary.
+  use file in/out for saving and loading output -> create entries class that will contain the date title and location-> Build a gui around this structure -> work on being able to edit the diary.
 
 
 
